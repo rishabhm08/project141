@@ -1,0 +1,25 @@
+.heading {
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3 {
+    display: inline;
+}
+
+#restart, #start {
+    border-radius: 15px;
+    width: 115px;
+    font-family: cursive;
+    text-align: center;
+}
+
+.copy_right_footer {
+    color: antiquewhite;
+    bottom: 0;
+    width: 100%;
+    background-color: blue;
+    line-height: 3;
+    text-align: center;
+    font-family: cursive;
+}
